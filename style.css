@@ -1,0 +1,13 @@
+@import 'https://fonts.googleapis.com/css?family=Lobster';
+h1{
+  color:red;
+  text-align: center;
+  font-family:Lobster;
+  <span style="color:black">Little</span>
+  border:5px solid black;
+}
+p{
+  text-align:center;
+  font-size:20px;
+
+}
