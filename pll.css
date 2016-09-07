@@ -9,7 +9,7 @@ h1{
   padding:20px;
 }
 h2{
-  color:purple;
+  color: purple;
   text-align: center;
   border: 5px dotted purple;
   padding: 20px;
@@ -41,6 +41,32 @@ img{
 }
 #hannam{
   border: 5px solid blue;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#spencer{
+  color:red;
+  display:block;
+  border: 5px dotted red;
+  margin-left: auto;
+  margin-right: auto;
+}
+#spencerh{
+  border: 5px solid red;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#aria{
+  color: darkolivegreen;
+  display: block;
+  border: 5px dotted darkolivegreen;
+  margin-left: auto;
+  margin-right: auto;
+}
+#ariam{
+  border: 5px solid darkolivegreen;
   display: block;
   margin-left: auto;
   margin-right: auto;
