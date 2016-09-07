@@ -2,7 +2,6 @@ body{
   background-color:lightpink;
 }
 h1{
-  http://pretty-little-liars.wikia.com/wiki/Emily_Fields
   color:red;
   text-align: center;
   font-family:Lobster;
@@ -16,7 +15,7 @@ h2{
   padding: 20px;
 }
 img{
-  border:5px solid black;
+  border:5px solid purple;
   display:block;
   margin-left: auto;
   margin-right: auto;
@@ -24,6 +23,25 @@ img{
 #emily{
   color:brown;
   text-align: center;
-  border: 5px dotted brown
+  border: 5px dotted brown;
   padding: 20px;
+}
+#emilyf{
+  border: 5px solid brown;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#hanna{
+  color: blue;
+  display: block;
+  border: 5px dotted blue;
+  margin-left: auto;
+  margin-right: auto;
+}
+#hannam{
+  border: 5px solid blue;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
