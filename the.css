@@ -20,3 +20,15 @@ h2{
   border: 5px dotted indigo;
   padding: 20px;
 }
+a:hover{
+  text-decoration: inherit;
+  background-color: #cc00cc;
+  font-size: 20px;
+}
+a:link {
+    text-decoration: none;
+    padding: 14px 25px;
+}
+nav{
+  text-align: center;
+}
